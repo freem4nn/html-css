@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8"
-<title><small</small>Markdown to html exercise</big></title>
+Markdown to html exercise
 <link rel="stylesheet" type="text/css" href="/style.css" />
 <hr>
 </body>
